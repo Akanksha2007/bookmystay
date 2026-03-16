@@ -8,6 +8,6 @@ public class UseCase1HotelBookingApp {
         System.out.println("======================================");
 
         System.out.println("Application started successfully!");
-        System.out.println("Thank you for using Book My Stay.");
+        System.out.println("Thanks you for using Book My Stay.");
     }
 }
